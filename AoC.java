@@ -72,7 +72,9 @@ public class AoC {
         for (int i = 2; i < numOfIslands + 2; i++) {
             setIslandDice.add(new Integer(i));
         }
-        //assigns a unique random number (dice roll) to th island
+        /* assigns a unique random number (dice roll) to the island, by removing each number from setIslandDice,
+        *  so that it is not used again.
+        */
         while (!setIslandDice.isEmpty()) {
             int randomIndex = (int) (Math.random() * setIslandDice.size());
             IntIslandDice.add(setIslandDice.get(randomIndex));
