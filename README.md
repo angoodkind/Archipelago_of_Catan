@@ -1,4 +1,4 @@
-# README file for Archipelago of Catan, v. 1.0.1  
+# Archipelago of Catan  
 
 ## ABOUT
 This program is a version of the popular board game Settlers of Catan. Unlike the original, though, the islands are in a string (an archipelago), rather than a two-dimensional setup.  
@@ -11,4 +11,4 @@ The game was designed after I completed Stanford's free online Introduction to C
 ## NOTES
 Some of the game logic is faulty, because this is a work in progress. Nonetheless, it has already been a great deal of fun creating my own game, and continuing to make it even better.  
   
-The main file is AoC.java. It is probably the best place to start.
+The main file is AoC.java. It is probably the best place to start. The .jar file is a fully playable version.
