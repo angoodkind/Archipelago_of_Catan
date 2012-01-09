@@ -248,7 +248,7 @@ public class AoC {
         /*
          * check if player has any resources available
          * ask player if he wants to build
-         * if so, invoke buildClicked()s
+         * if so, invoke buildClicked()
          */
         canBuild = true;
         while (canBuild == true) {
