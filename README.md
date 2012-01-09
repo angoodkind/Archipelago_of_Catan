@@ -10,5 +10,5 @@ The game was designed after I completed Stanford's free online Introduction to C
   
 ## NOTES
 Some of the game logic is faulty, because this is a work in progress. Nonetheless, it has already been a great deal of fun creating my own game, and continuing to make it even better.  
-  
+  
 The main file is AoC.java. It is probably the best place to start.
